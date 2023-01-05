@@ -88,17 +88,14 @@ main{
 
 .section-description{
     color: #757575;
-    padding-bottom: 30px;
+   
 
-}
-.about-table-head{
-    margin: 50px;
-    color: red;
 }
 
 .about-info-container{
     justify-content: space-around;
     display: flex;
+   
 }
 .about-info-container .info-title{
     font-size: 20px;
@@ -108,3 +105,26 @@ main{
     font-size: 20px;
     color: #757575;
 }
+
+/* what i do */
+.what-i-do{
+    text-align: center;
+    margin-top: 130px;
+    background-color:  #FFF8F3;
+    border-radius: 10px;
+    padding: 130px 150px;
+}
+
+.skills-container{
+    display: flex;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    color: #181818;
+}
+.skill-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}    
